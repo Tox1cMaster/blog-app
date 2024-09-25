@@ -9,3 +9,9 @@
     background-size: cover;
     background-position: bottom;
 }
+.nav-opacity{
+    --bs-bg-opacity: .9;
+}
+.custom-nav{
+    backdrop-filter: blur(8px);
+}
